@@ -5,7 +5,7 @@
 - Gym focus
 - Valorant Amateur Player
 - UNICAP Student (BR-PE)
-- Learning at moment HTML, CSS and JS
+- Learning at moment HTML, CSS, JS and JAVA
 
 ### Contact Me
 
