@@ -9,7 +9,7 @@
 
 ### Contact Me
 
-[![Linkedin Badge](https://img.shields.io/badge/-giulliavieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giullia-isabel-vieira-da-cunha-8a3a3726b)](https://www.linkedin.com/in/giullia-isabel-vieira-da-cunha-8a3a3726b)
+[![Linkedin Badge](https://img.shields.io/badge/-giulliavieira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/giulliavieira/)](https://www.linkedin.com/in/giulliavieira/)
 [![Gmail Badge](https://img.shields.io/badge/-vieiragiullia19@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vieiragiullia19@gmail.com)](mailto:vieiragiullia19@gmail.com)
 
 
